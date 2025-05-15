@@ -12,7 +12,7 @@ leap year
     return 0;
 }
 
-
+--------------------------------------------------------------------
 
 switch case
 
@@ -44,7 +44,7 @@ int main()
     return 0;
 }
 
-
+------------------------------------------------------------------
 
 
 "Leap Year
@@ -75,7 +75,7 @@ First check whether it is lentuyor Non-century Then devinilde by ou eby.
 
 400 it is Century year and by 4 it is Non Livisible Nor-century year
 
-
+--------------------------------------------------------------------------------
 operator
   
 #include <stdio.h>
@@ -118,7 +118,7 @@ int main()
 }
 
 
-
+------------------------------------------------------------------------------------
 
 
 
@@ -152,4 +152,124 @@ break;
 
  return 0;
 }
+--------------------------------------------------------------------------
+________________________________________________________________________________
+
+
+In Switch Case ase you loop of you can use any If eken any
+
+If yoLine feed f means here give aufor the romuch you w display.
+
+&& can use instead ( ) can bracklet.
+
+Switch Statement
+
+* Switch caye will not have any dufpicate case.
+
+* Cases cantein constant, expression, characters.
+
+* is ophon al
+
+Bacakla gelen de placed in any ustave a Defast can be p where where
+
+{ } combe mandatory.
+
+of keywords - switch, case, break, def mult.
+
+
+
+
+
+_______________________________________________________________________________________________
+
+
+
+
+Lopping
+
+Avoiding the lines many time we can use loping )..
+
+* Looping to while wote while here are three types of les There loop in C
+
+
+________________________________________________________________________________________
+
+
+#include <stdio.h>
+
+int main()
+{
+   int a;
+   while(a<7)
+   {
+       printf("A");
+       a++;
+   }
+    return 0;
+}
+
+
+
+_____________________________________________________________
+
+
+
+#include <stdio.h>
+
+int main()
+{
+   int a;
+   a=1;
+   do{
+          printf("A");
+       a++;
+   } while (a<7);
+    return 0;
+}
+
+
+__________________________________________________
+
+
+
+#include <stdio.h>
+
+int main() {
+    int a; // Declare variable 'a'
+    for (a = 1; a <= 100; a++) {
+        printf("%d ", a);
+    }
+    return 0;
+}
+
+
+
+___________________________________________________________________
+
+
+#include <stdio.h>
+
+int main() {
+    int a = 1;
+
+    while (a <= 50) {
+        if (a % 2 == 0) {
+            printf("%i ", a);
+        }
+        a++;
+    }
+
+    return 0;
+}
+
+
+
+____________________________________________________________
+
+
+
+
+
+
+
 
